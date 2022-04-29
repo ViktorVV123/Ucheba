@@ -1,0 +1,1 @@
+let sumSquares = a => a.reduce((s, x) => s + x * x, 0)
